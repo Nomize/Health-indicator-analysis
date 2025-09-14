@@ -1,4 +1,3 @@
-# Data_-Analysis-with-Python
 # 🩺 Health Indicators Analysis (Diabetes & Heart Disease)
 
 This project explores a **Binary Health Indicators dataset** (Kaggle), focusing on risk factors related to **diabetes and heart disease**.  
@@ -94,5 +93,5 @@ Four main plots were created:
 ## 📌 How to Run the Project
 
 1. Clone this repository:  
-   ```bash
-   git clone https://github.com/Nomize/Data_-Analysis-with-Python.git
+   ```bash[
+   git clone https://github.com/Nomize/Health-indicator-analysis.git
